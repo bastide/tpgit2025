@@ -3,6 +3,7 @@ public class App {
         // je rajoute un commentaire
         // pour tester
         // modiff à gauche
+        // modif à gauche pour conflit
         System.out.println("Hello, World!");
     }
 }
